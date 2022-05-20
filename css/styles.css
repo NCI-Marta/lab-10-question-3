@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 25px;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    color: ;
+    background-color: lightcyan;
+    text-align: center;
+    padding-top: 100px;
+}
+
+p{
+    margin-bottom: 20px;
+}
